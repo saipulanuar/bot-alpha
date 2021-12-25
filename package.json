@@ -1,10 +1,13 @@
 {
-  "name": "Alphabot",
-  "version": "2.5.1",
-  "description": "WhatsApp bot",
-  "zeeone": "zeeone.js",
+  "name": "AlphabotMD",
+  "version": "0.0.3",
+  "description": "Alpha Bot Multi Device",
+  "main": "zeeone.js",
   "directories": {
     "lib": "lib"
+  },
+  "scripts": {
+    "start": "node zeeone.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
