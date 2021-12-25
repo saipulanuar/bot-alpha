@@ -5,6 +5,7 @@
   "zeeone": "zeeone.js",
   "directories": {
     "lib": "lib"
+    "plugins": "plugins"
   },
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
