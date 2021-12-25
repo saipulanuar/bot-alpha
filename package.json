@@ -1,3 +1,7 @@
+"engines": {
+    "node": ">= 6.9.4",
+    "npm": ">= 4.4.0"
+  }
 {
   "name": "Alphabot",
   "version": "10.0.1",
