@@ -1,7 +1,7 @@
 {
-  "name": "AlphabotMD",
-  "version": "0.0.3",
-  "description": "Alpha Bot Multi Device",
+  "name": "Alphabot",
+  "version": "10.0.1",
+  "description": "WhatsApp bot",
   "main": "zeeone.js",
   "directories": {
     "lib": "lib"
